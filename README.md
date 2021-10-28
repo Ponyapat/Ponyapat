@@ -9,7 +9,7 @@ My Name is Poonyapat ,22 years old ,  I am student at Chiang Mai University
 - 👨‍💻 CSS, C++, HTML, CSS, JavaScript, PHP, SQL, Dart, Solidity, Java, Python
 - ⚙️ ReactJS, VueJS, NuxtJS, Boostrap, jQuerry
 - 👁️ MySQL, NodeJS, Git
-- 💽 Visual Stdio Code, Cisco Packet Tracer, SQLite
+- 💽 Visual Studio Code, Visual Studio 2019, Cisco Packet Tracer, SQLite
 
 ## Contact
 - Gmail : Ponyapat.guide@gmail.com
