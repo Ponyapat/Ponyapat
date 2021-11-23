@@ -3,6 +3,8 @@
 ## Hello!
 
 My Name is Poonyapat ,22 years old ,  I am student at Chiang Mai University
+     I am a student of computer engineering with experience in programming project ,web application.
+         I  am  interested to learning a new thing. I think continuous learning is important because it helps us to be more capable and confident
 
 
 ## Skills
