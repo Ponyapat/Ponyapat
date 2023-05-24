@@ -16,5 +16,4 @@ My Name is Poonyapat ,24 years old ,  I am student at Chiang Mai University
 ## Contact
 - Gmail : Ponyapat.guide@gmail.com
 
-## Github Stats
-[![Ponyapat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ponyapat&show_icons=true&theme=default#gh-light-mode-only)]
+
