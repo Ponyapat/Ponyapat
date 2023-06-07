@@ -8,8 +8,8 @@ My Name is Poonyapat ,24 years old ,  I am student at Chiang Mai University
 
 
 ## Skills
-- 👨‍💻 CSS, C++, HTML, CSS, JavaScript, PHP, SQL, Dart, Solidity, Java, Python
-- ⚙️ ReactJS, VueJS, NuxtJS, Boostrap, jQuerry
+- 👨‍💻 CSS, C++, HTML, JavaScript, Solidity,PHP, SQL,  Java, Python
+- ⚙️ ReactJS, VueJS, NuxtJS, NextJS, Boostrap, jQuerry
 - 👁️ MySQL, NodeJS, Git ,ThirdwebSDK
 - 💽 Visual Studio Code, Visual Studio, Cisco Packet Tracer, SQLite, Unity
 
